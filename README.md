@@ -38,3 +38,6 @@ _[In Search of an Understandable Consensus Algorithm][Ongaro2014]_,
 [Ongaro2014]: https://www.usenix.org/conference/atc14/technical-sessions/presentation/ongaro
 
 [Apache Ratis]: http://ratis.incubator.apache.org/
+
+## 揭开 Raft 的神秘面纱，和ApacheRatis 了解Raft 组件的使用
+https://mp.weixin.qq.com/s/UXkubco3pLogZwakrUf78g
